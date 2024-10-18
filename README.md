@@ -1,1 +1,1 @@
-# techprojects
+Autism Spectrum Disorder (ASD) is a complex neurodevelopmental condition characterized by challenges in social interaction, communication, and repetitive behaviors. This project aims to harness the power of Mediapipe, TensorFlow, and Long ShortTerm Memory (LSTM) networks to create an innovative solution for detecting ASD related behaviors, such as arm flapping, headbanging, and spinning. Mediapipe, an open-source framework developed by Google, provides the tools necessary for real-time tracking of human motion and gestures. 
